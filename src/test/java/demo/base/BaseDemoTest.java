@@ -16,13 +16,13 @@ public class BaseDemoTest {
     }
 
     @Test
-    public void should_return_6() {
+    public void given_two_numbers_whenSum_thenReturnSum() {
         BaseDemo baseDemo = new BaseDemo();
         assertEquals(6, baseDemo.sum(3,3));
     }
 
     @Test
-    public void should_return_10() {
+    public void given_two_integer_values_whenSum_should_return_sum_of_integers() {
         BaseDemo baseDemo = new BaseDemo();
         assertEquals(10, baseDemo.sum(5,5));
     }

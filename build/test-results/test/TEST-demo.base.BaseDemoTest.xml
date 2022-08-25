@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="demo.base.BaseDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-25T16:19:06" hostname="MNLITA18-W10" time="0.012">
+<testsuite name="demo.base.BaseDemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-25T16:24:01" hostname="MNLITA18-W10" time="0.015">
   <properties/>
-  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.012"/>
+  <testcase name="should_return_10()" classname="demo.base.BaseDemoTest" time="0.012"/>
+  <testcase name="given_two_numbers_whenSum_thenReturnSum()" classname="demo.base.BaseDemoTest" time="0.0"/>
+  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
